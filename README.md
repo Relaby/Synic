@@ -1,4 +1,1 @@
-#     Synic Discord Bot
-**Open Source Discord Bot**
-
-# made by Relaby#9999
+Finally made public so here it is! Synic the discord bot.
